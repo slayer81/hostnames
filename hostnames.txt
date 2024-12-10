@@ -110,6 +110,7 @@ socialize.eu1.gigya.com
 stk.protechts.net
 t.fullres.net
 t.influ2.com
+trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev.local
 tracker.metricool.com
 tracking.sexcash.com
 trackog.theportalnetworks.com
