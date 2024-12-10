@@ -1,1 +1,3 @@
 consent.cookiebot.com
+tracker.metricool.com
+internetcaddy.com
