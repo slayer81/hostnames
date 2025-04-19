@@ -17,7 +17,6 @@ apple.mdm.jumpcloud.com
 assets.mailerlite.com
 assets.springserve.com
 aviary.amazon.de
-bcbolt.*\.akamaihd.net
 browser-intake-us5-datadoghq.com
 browser.pipe.aria.microsoft.com
 camo.stream.highwebmedia.com
@@ -31,12 +30,10 @@ click.e.bbcmail.co.uk
 click.mailing.ticketmaster.com
 clicks.monzo.com
 clients.plex.tv
-community.plex.tv
 consent.cookiebot.com
 content-loader.com
 d1avm1cbyhi830.cloudfront.net
 discover.provider.plex.tv
-doh.dns.apple.com
 downloads.pdfexpert.com
 dr.diyihuifu.com
 dsm01pap006.storage.live.com
@@ -61,7 +58,6 @@ maswk.icloud.com
 metrics.icloud.com
 mobile.launchdarkly.com
 officeci-mauservice.azurewebsites.net
-pinsystem.co.uk
 s.adsximg.com
 scontent.flhr4-4.fna.fbcdn.net
 secure2.segpay.com
